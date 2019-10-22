@@ -85,7 +85,8 @@
 - screwdriver など
 
 #### 主な業務内容
-- 開発フロー整備 git-flow もどきの運用だったものを github-flow へ統一
+- 開発フロー整備
+  - git-flow もどきの運用だったものを github-flow へ統一
 - 独自検索エンジンのクライアントの保守運用およびリファクタリング
 - 独自検索エンジンの保守運用
 - リリースジョブ修正
@@ -144,14 +145,14 @@
   - 配信サイト [yorisilo podcast](http://yorisilo.github.io/podcast/)
 
 ### 社内勉強会
-* 圏論勉強会の主催(ベーシック圏論の輪読会) [docs/read_basic_category_theory at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/read_basic_category_theory)
-* 電子回路における複素数のありがたさ [docs/impedance at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/impedance)
-* クリーンアーキテクチャについて [docs/clean-architecture at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/clean-architecture)
-* haskell での副作用の扱い方 [docs/side-effect-on-haskell at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/side-effect-on-haskell)
-* 再帰関数の効率的な書き方 with CPS [docs/recursive at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/recursive)
+- 圏論勉強会の主催(ベーシック圏論の輪読会) [docs/read_basic_category_theory at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/read_basic_category_theory)
+- 電子回路における複素数のありがたさ [docs/impedance at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/impedance)
+- クリーンアーキテクチャについて [docs/clean-architecture at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/clean-architecture)
+- haskell での副作用の扱い方 [docs/side-effect-on-haskell at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/side-effect-on-haskell)
+- 再帰関数の効率的な書き方 with CPS [docs/recursive at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/recursive)
 
 ### 論文
-* [Staging with Control: Type-Safe Multi-stage Programming with Control Operators (GPCE 2017 - 16th International Conference on Generative Programming: Concepts & Experience) - GPCE 2017](https://conf.researchr.org/details/gpce-2017/gpce-2017/14/Staging-with-Control-Type-Safe-Multi-stage-Programming-with-Control-Operators)
+- [Staging with Control: Type-Safe Multi-stage Programming with Control Operators (GPCE 2017 - 16th International Conference on Generative Programming: Concepts & Experience) - GPCE 2017](https://conf.researchr.org/details/gpce-2017/gpce-2017/14/Staging-with-Control-Type-Safe-Multi-stage-Programming-with-Control-Operators)
 
 ## 労働環境の希望
 - 技術への理解がある
@@ -183,4 +184,4 @@
   - 残業なし
 
 # 参考
-* この履歴書は次のテンプレートを使用している [okohs/Curriculum-Vitae-template: This is template of curriculum vitae. Please use this template when need your curriculum vitae.](https://github.com/okohs/Curriculum-Vitae-template)
+- この履歴書は次のテンプレートを使用している [okohs/Curriculum-Vitae-template: This is template of curriculum vitae. Please use this template when need your curriculum vitae.](https://github.com/okohs/Curriculum-Vitae-template)
