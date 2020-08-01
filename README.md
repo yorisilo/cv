@@ -159,6 +159,7 @@
 - github actions
 - firebase
 - agora.io
+- tensorflow.js
 
 ##### 出向先: オンラインフィットネス新規サービスの開発
 - 設計、開発、保守運用を担当
@@ -168,6 +169,7 @@
   - CI/CD: github actions
   - DB: firestore
   - realtime 配信PF: agora.io
+  - machine learning: tensorflow.js
 
 ##### 主務: tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行 (現在進行中)
 - kubernetes の利用
