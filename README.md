@@ -91,7 +91,7 @@
 - 独自検索エンジンの保守運用
 - リリースジョブ修正
 
-### 2018-02 - 現在(2019-10)
+### 2018-02 - 2020-04
 - 広告配信のバックエンドシステムで用いる検索エンジン vespa まわりの設計、開発、保守、運用
 - 言語は主に golang を利用している
 - PaaS, Caas での開発が主
@@ -140,19 +140,45 @@
 - kubernetes の利用
   - ingress, service, deployment を使ったアプリケーションの作成
 
-##### オンラインフィットネス新規サービスの開発
+### 2020-04 - 現在(2020-08)
+- 広告配信のバックエンドシステムの開発、保守、運用
+- 言語は主に c++ を利用している
+- VM での開発が主
+
+#### 使用した主な技術
+- c++
+- PaaS
+- CaaS
+- kubernetes
+- screwdriver
+- prometheus
+- grafana
+- react
+- typescript
+- netlify
+- github actions
+- firebase
+- agora.io
+
+##### 出向先: オンラインフィットネス新規サービスの開発
 - 設計、開発、保守運用を担当
 - 使用技術
   - framework: react with typescript
   - hosting: netlify
   - CI/CD: github actions
   - DB: firestore
-  - realtime 配信PF: agora
+  - realtime 配信PF: agora.io
 
-##### tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行 (現在進行中)
+##### 主務: tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行 (現在進行中)
 - kubernetes の利用
   - ingress, service, deployment を使ったアプリケーションの作成
 - パフォーマンスチューニング
+
+### 職務要約
+大学院でプログラミング言語理論の研究を行った後、 2017年に ... に入社。
+現在にわたり、広告配信のバックエンドサービスの開発に従事している。
+広告配信に使用する広告用の商品の登録のためのバックエンドサービスの刷新のため、既存サービスの処理をマイクロサービスに分割するための検討から、技術選定、設計、開発、テスト、スケジュール管理などを行った。
+また、2020年5月より、新規サービスの開発のため出向を開始し、技術選定からフロントエンドサービスの設計、開発、スケジュール管理などを行っている。
 
 ## 課外活動(趣味など)
 ### ポッドキャスト
