@@ -133,10 +133,26 @@
   - ingress, service, deployment を使ったアプリケーションの作成
 - HDFS との連携
 
-##### 既存広告更新システムの PaaS から CaaS への移行および既存コンポーネントの処理を共通化 (現在進行中)
+##### 既存広告更新システムの PaaS から CaaS への移行および既存コンポーネントの処理を共通化
+- 設計、開発、テスト、保守運用を担当
 - golang による開発
+- MQ(pulsar) を利用するコードのライブラリ化
+- kubernetes の利用
+  - ingress, service, deployment を使ったアプリケーションの作成
 
-##### 検索エンジン(vespa) を実機から CaaS へ移行 (現在進行中)
+##### オンラインフィットネス新規サービスの開発
+- 設計、開発、保守運用を担当
+- 使用技術
+  - framework: react with typescript
+  - hosting: netlify
+  - CI/CD: github actions
+  - DB: firestore
+  - realtime 配信PF: agora
+
+##### tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行 (現在進行中)
+- kubernetes の利用
+  - ingress, service, deployment を使ったアプリケーションの作成
+- パフォーマンスチューニング
 
 ## 課外活動(趣味など)
 ### ポッドキャスト
@@ -144,12 +160,14 @@
 - 配信用ポッドキャストサイトを jeykyll + github pages で構築し、itunes で配信している。 近々 gatsby + netlify に移行予定
   - 配信サイト [yorisilo podcast](http://yorisilo.github.io/podcast/)
 
-### 社内勉強会
+### 社内/社外勉強会
 - 圏論勉強会の主催(ベーシック圏論の輪読会) [docs/read_basic_category_theory at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/read_basic_category_theory)
 - 電子回路における複素数のありがたさ [docs/impedance at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/impedance)
 - クリーンアーキテクチャについて [docs/clean-architecture at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/clean-architecture)
 - haskell での副作用の扱い方 [docs/side-effect-on-haskell at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/side-effect-on-haskell)
 - 再帰関数の効率的な書き方 with CPS [docs/recursive at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/recursive)
+- NIC を探し当てろ [go\-httpd/network\.md at master · yorisilo/go\-httpd](https://github.com/yorisilo/go-httpd/blob/master/slide/02/network.md)
+- TCP/IP の息吹を感じよ [go\-httpd/networkcomand\.md at master · yorisilo/go\-httpd](https://github.com/yorisilo/go-httpd/blob/master/slide/02/networkcomand.md)
 
 ### 論文
 - [Staging with Control: Type-Safe Multi-stage Programming with Control Operators (GPCE 2017 - 16th International Conference on Generative Programming: Concepts & Experience) - GPCE 2017](https://conf.researchr.org/details/gpce-2017/gpce-2017/14/Staging-with-Control-Type-Safe-Multi-stage-Programming-with-Control-Operators)
