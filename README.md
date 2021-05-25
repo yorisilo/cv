@@ -140,7 +140,7 @@
 - kubernetes の利用
   - ingress, service, deployment を使ったアプリケーションの作成
 
-### 2020-04 - 現在(2020-08)
+### 2020-04 - 現在(2021-05)
 - 広告配信のバックエンドシステムの開発、保守、運用
 - 言語は主に c++ を利用している
 - VM での開発が主
@@ -164,17 +164,18 @@
 ##### 出向先: オンラインフィットネス新規サービスの開発
 - 設計、開発、保守運用を担当
 - 使用技術
-  - framework: react with typescript
-  - hosting: netlify
+  - framework: react with typescript, react native
+  - hosting: netlify, app center
   - CI/CD: github actions
   - DB: firestore
   - realtime 配信PF: agora.io
   - machine learning: tensorflow.js
 
-##### 主務: tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行 (現在進行中)
+##### 主務: tensorflow-servering を用いた機械学習プラットフォームを VM から CaaS への移行
 - kubernetes の利用
   - ingress, service, deployment を使ったアプリケーションの作成
 - パフォーマンスチューニング
+- gRPC の利用
 
 ### 職務要約
 大学院でプログラミング言語理論の研究を行った後、 2017年に ... に入社。
@@ -196,6 +197,9 @@
 - 再帰関数の効率的な書き方 with CPS [docs/recursive at master · yorisilo/docs](https://github.com/yorisilo/docs/tree/master/recursive)
 - NIC を探し当てろ [go\-httpd/network\.md at master · yorisilo/go\-httpd](https://github.com/yorisilo/go-httpd/blob/master/slide/02/network.md)
 - TCP/IP の息吹を感じよ [go\-httpd/networkcomand\.md at master · yorisilo/go\-httpd](https://github.com/yorisilo/go-httpd/blob/master/slide/02/networkcomand.md)
+
+### tech blog
+- [ヤフーで働きながら新規事業に挑戦している話 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2021012730065907/)
 
 ### 論文
 - [Staging with Control: Type-Safe Multi-stage Programming with Control Operators (GPCE 2017 - 16th International Conference on Generative Programming: Concepts & Experience) - GPCE 2017](https://conf.researchr.org/details/gpce-2017/gpce-2017/14/Staging-with-Control-Type-Safe-Multi-stage-Programming-with-Control-Operators)
